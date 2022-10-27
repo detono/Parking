@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="title_activity_main">Main</string>
+    <string name="parking_symbol">Parking Symbol</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_last_updated">Last updated</string>
+    <string name="sort_free_capacity">Free capacity</string>
+    <string name="sort_category">Category</string>
+    <string name="sort_operator">Operator</string>
+    <string name="sort_ascending">Ascending</string>
+    <string name="sort_descending">Descending</string>
+    <string name="sort_direction">Sort direction</string>
+    <string name="sort_on">Sort on</string>
+    <string name="view_map">Map</string>
+    <string name="view_list">List</string>
+    <string name="capacity_amount">Capacity: </string>
+    <string name="opening_hours">Opening hours: </string>
+    <string name="search_content_description">Search route query</string>
+    <string name="search_address">Search address</string>
+</resources>
